@@ -25,3 +25,22 @@
 - ✨ Hobbies: Chess ♞, Football ⚽, Tennis 🎾, F1 🏎️
 
 ## 🛠 Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="Clion" alt="Clion" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="Rider" alt="Rider" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLLite" alt="SQLLite" width="50" height="50"/>&nbsp;
+</div>
+
+## 📊 Statistics :
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3spec1al1&layout=compact&theme=vision-friendly-dark" height="150"/>
+  <img src="https://preview.redd.it/what-is-the-most-overused-f1-meme-of-all-time-v0-d90octo201if1.jpeg?auto=webp&s=ab0be2dfc220a3b10f00c56203077e513634c359" width="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=th3spec1al1&show_icons=true&theme=vision-friendly-dark" height="150"/>
+</div>
