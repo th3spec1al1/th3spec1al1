@@ -41,5 +41,7 @@
 
 ## 📊 Statistics :
 <div>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3spec1al1&layout=compact&theme=vision-friendly-dark" height="150"/>
+  <img src="https://preview.redd.it/what-is-the-most-overused-f1-meme-of-all-time-v0-d90octo201if1.jpeg?auto=webp&s=ab0be2dfc220a3b10f00c56203077e513634c359" width="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=th3spec1al1&show_icons=true&theme=vision-friendly-dark" height="150"/>
 </div>
