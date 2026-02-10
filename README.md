@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWV3cm54NGYxZTFhM2RjZjFteTQ1MnlrZXdvMXNtcm5udXhzeWg0NSZlcD12MV9naWZzJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWV3cm54NGYxZTFhM2RjZjFteTQ1MnlrZXdvMXNtcm5udXhzeWg0NSZlcD12MV9naWZzJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -42,8 +42,8 @@
 
 ## 📊 Statistics :
 <div id="stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=th3spec1al1&theme=github_dark" height="140"/>
-  <img src="https://preview.redd.it/what-is-the-most-overused-f1-meme-of-all-time-v0-d90octo201if1.jpeg?auto=webp&s=ab0be2dfc220a3b10f00c56203077e513634c359" height="140"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3spec1al1&theme=github_dark" height="140"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=th3spec1al1&theme=github_dark" height="130"/>
+  <img src="https://preview.redd.it/what-is-the-most-overused-f1-meme-of-all-time-v0-d90octo201if1.jpeg?auto=webp&s=ab0be2dfc220a3b10f00c56203077e513634c359" height="130"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=th3spec1al1&theme=github_dark" height="130"/>
 </div>
 
