@@ -42,8 +42,8 @@
 
 ## 📊 Statistics :
 <div id="stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=th3spec1al1&theme=github_dark" height="180"/>&nbsp;&nbsp;
-  <img src="https://github.com/th3spec1al1/th3spec1al1/blob/main/imgs/kimi.jpg" height="180"/>&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=th3spec1al1&theme=github_dark" height="180"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3spec1al1&layout=compact&theme=radical" height="150" />
+  <img src="https://github.com/th3spec1al1/th3spec1al1/blob/main/imgs/kimi.jpg" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=th3spec1al1&show_icons=true&theme=radical" height="150" />
 </div>
 
