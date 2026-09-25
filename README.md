@@ -23,5 +23,5 @@ I'm Sergei — Software Engineering student at ITMO (2024 — 2028). Interested 
 
 **connect**
 
-[![Email](https://skills.syvixor.com/api/icons?i=gmail&perline=10)](mailto:you@example.com)
-[![Telegram](https://skills.syvixor.com/api/icons?i=telegram&perline=10)](https://t.me/username)
+[![Email](https://skills.syvixor.com/api/icons?i=gmail&perline=10)](mailto:th3spec1al1.official@gmail.com)
+[![Telegram](https://skills.syvixor.com/api/icons?i=telegram&perline=10)](https://t.me/th3spec1al1)
