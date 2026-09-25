@@ -20,3 +20,8 @@ I'm Sergei — Software Engineering student at ITMO (2024 — 2028). Interested 
 **tools & infrastructure**
 
 ![Tools & infrastructure icons](https://skills.syvixor.com/api/icons?i=git,docker,linux,gradle,keycloak,testcontainers,grpc,swagger&perline=10)
+
+**connect**
+
+[![Email](https://skills.syvixor.com/api/icons?i=gmail&perline=10)](mailto:you@example.com)
+[![Telegram](https://skills.syvixor.com/api/icons?i=telegram&perline=10)](https://t.me/username)
